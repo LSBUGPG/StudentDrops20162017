@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81d11ae0ec98ea4469fcc22f717642b2
+timeCreated: 1479827472
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Bullets: {fileID: 193882, guid: 5c456ae13458baa49910950bbb1c4072, type: 2}
+  - Zombie: {fileID: 175920, guid: 011c763af0309f84ca6d13963b0e34a2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

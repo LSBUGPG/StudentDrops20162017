@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3b72416499e16b94e89e7a63828f132c
+timeCreated: 1479831608
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Zombie: {instanceID: 0}
+  - Hitzombie: {instanceID: 0}
+  - prefab: {fileID: 193882, guid: 5c456ae13458baa49910950bbb1c4072, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

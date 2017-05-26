@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 008b3dd128d7c5143a3fef28a12cf9c3
+timeCreated: 1481664488
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shotgun: {instanceID: 0}
+  - rifle: {instanceID: 0}
+  - Launcher: {fileID: 100000, guid: 97e58ea2c613abb459803f7fe87cb3b9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
